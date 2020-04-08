@@ -1,0 +1,52 @@
+.navbar {
+    background-color: orange;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+
+}
+
+.navbar a {
+    margin-right: 5px;
+}
+
+.navbar button {
+    margin-right: 5px;
+}
+
+.navbar img {
+    margin-right: 5px;
+}
+
+.main-container {
+    background-color: paleturquoise;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    /* Aquí centro horizontal*/
+    justify-content: center;
+    align-items: center;
+}
+
+.logo {
+    height: 92px;
+    width: 272px;
+}
+
+.search-input {
+    width: 450px;
+    height: 25px;
+    border-radius: 25px;
+}
+
+.action-button {
+    color: #5F6368;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+    height: 36px;
+    width: 160px;
+    margin: 11px 4px;
+    padding: 0px 16px;
+    
+}

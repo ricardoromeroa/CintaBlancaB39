@@ -1,0 +1,57 @@
+p{
+    /* rgb */
+    color: rgb(255, 50, 50);
+    /* nombre */
+    color: red;
+    /* hex */
+    /* color: #00FF33; */
+    font-family: Comic sans-serif;
+}
+
+h1{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: chocolate;
+
+    color: blue;
+}
+
+/*Clase */
+.verde{
+    color: green;
+}
+
+.verde:hover {
+    color: darkgoldenrod;
+}
+
+body {
+    background-color: black;
+}
+
+
+.cuadrado{
+    background-color: darkblue;
+    height: 200px;
+    width: 200px;
+    padding: 30px;
+    border: double 5px black;
+    margin: 25px;
+}
+
+.cuadrado:hover{
+    background-color: darkorange;
+    height: 100px;
+    margin: 50px;
+    border: dotted 20px blue
+}
+
+
+/* ID */
+#azul{
+    color: blue;
+}
+

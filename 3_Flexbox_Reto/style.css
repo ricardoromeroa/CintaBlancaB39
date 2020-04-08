@@ -1,0 +1,60 @@
+/*main*/
+.top {
+    display: flex;
+    flex-direction: row;
+}
+
+.cuadrado1 {
+    border: solid 1px #EF2B2D;
+    background-color:#EF2B2D;
+    height: 175px;
+    width: 200px;
+    margin-right: 35px;
+
+}
+
+.rectangulo1 {
+    border: solid 1px #002868;
+    background-color: #002868;
+    height: 210px;
+    width: 100px;
+    margin-right: 35px;
+
+}
+
+.cuadrado2 {
+    border: solid 1px #EF2B2D;
+    background-color: #EF2B2D;
+    height: 175px;
+    width: 500px;
+
+}
+
+/*main*/
+
+/*section*/
+.rectangulo2 {
+    border: solid 1px #002868;
+    background-color: #002868;
+    height: 100px;
+    width: 875px;
+    margin-bottom: 35px;
+
+}
+
+/*footer*/
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+}
+
+.rectangulo3 {
+    border: solid 1px #002868;
+    background-color: #002868;
+    height: 210px;
+    width: 100px;
+    margin-right: 35px;
+    margin-top: -35px ;
+
+}

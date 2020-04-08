@@ -1,0 +1,145 @@
+/* Aplica a todas las etiquetas este estilo */
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/*Header*/
+.encabezado {
+    background-color: rgb(53, 14, 8);
+    color: rgb(246, 246, 246);
+}
+
+.titulo{
+    text-align: center;
+}
+/*Header*/
+
+/* main */
+.contenedor-principal {
+    background-color: darkgray;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}
+.texto {
+    border: solid 1px black;
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    /*flex */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.imagen {
+    border: solid 1px black;
+    background-color: white;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    }
+    .logo{
+        height: 200px;
+        width: 150px;
+    }
+
+/* main */
+
+/* section */
+.section2 {
+    display: flex;
+    background-color: rgb(33, 134, 134);
+    justify-content: space-evenly;
+
+}
+
+.logo2{
+    height: 100px;
+    width: 80px;
+}
+
+.imagentexto1{
+    border: solid 1px black;
+    background-color: rgb(70, 138, 96);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.imagentexto2{
+    border: solid 1px black;
+    background-color: rgb(102, 101, 104);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.imagentexto3{
+    border: solid 1px black;
+    background-color: rgb(200, 161, 75);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+/* footer */
+.footer1 {
+    display: flex;
+    background-color: rgb(100, 121, 32);
+    justify-content: space-between;
+}
+
+.textoa{
+    border: solid 1px black;
+    background-color: rgb(78, 141, 42);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.imagen2{
+    border: solid 1px black;
+    background-color: rgb(0, 0, 0.9);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+.textob{
+    border: solid 1px black;
+    background-color: rgb(62, 41, 182);
+    height: 300px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}

@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    
+   
+
+}
+.navbar-edit {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: fixed;
+    width: 100%;
+    z-index: 3;
+    height: 95px;
+    top: 0px;
+    padding: 20px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    border: 0px;
+}
+
+.carousel1 {
+    margin-top: 95px;
+}
+
+.card {
+    border: none;
+    justify-content: center;
+    
+}
+    
+    
+
+/* .bg {
+    background-image: url(https://cdn.agriland.ie/uploads/2013/08/shutterstock_88550854.jpg);
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+ } */
+
+
+
+
